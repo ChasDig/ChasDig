@@ -29,7 +29,6 @@ I'am **Python backend-developer** (**2.5+** years of experience).
 
 
 ## 📚 **My Developer principles**:
-SOLID, KISS, YAGNI, SOC, DRY, Clean Code and others
 ✅ **SOLID** • **KISS** • **YAGNI** • **DRY**  
 ✅ **Clean Code**
 *Always open to learning new best practices! If you now more, tell me about* 😉
