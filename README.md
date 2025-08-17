@@ -1,5 +1,5 @@
 # Hi all! 👋
-# 🚀 **About me:**
+🚀 **About me:**
 I'am a **Python backend-developer** with **2.5+** years of experience.
 
 ## 🛠 **Tech Stack**
