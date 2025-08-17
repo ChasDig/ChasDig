@@ -1,5 +1,5 @@
 # Hi all! 👋
-🚀 **About me:**
+# 🚀 **About me:**
 I'am a **Python backend-developer** with **2.5+** years of experience.
 
 ## 🛠 **Tech Stack**
@@ -28,8 +28,8 @@ I'am a **Python backend-developer** with **2.5+** years of experience.
 
 
 ## 📚 **My Developer principles**:
-✅ **SOLID** • **KISS** • **YAGNI** • **DRY**  
-✅ **Clean Code**
+✅ **SOLID** • **KISS** • **YAGNI**  
+✅ **Clean Code** • **DRY**
 
 *Always open to learning new best practices! If you now more, tell me about* 😉
 
@@ -37,7 +37,7 @@ I'am a **Python backend-developer** with **2.5+** years of experience.
 # 📊 **My GitHub stats:**
 <div align="center">
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=ChasDig&show_icons=true&theme=dracula) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChasDig&layout=compact&theme=dracula) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=ChasDig&show_icons=true&theme=dracula) | ![Top by languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChasDig&layout=compact&theme=dracula) |
 |-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 
 </div>
