@@ -31,13 +31,16 @@ I'am **Python backend-developer** (**2.5+** years of experience).
 ## 📚 **My Developer principles**:
 ✅ **SOLID** • **KISS** • **YAGNI** • **DRY**  
 ✅ **Clean Code**
+
 *Always open to learning new best practices! If you now more, tell me about* 😉
 
 
 # 📊 **My GitHub stats:**
 <div align="center">
+
 | ![Stats](https://github-readme-stats.vercel.app/api?username=ChasDig&show_icons=true&theme=dracula) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChasDig&layout=compact&theme=dracula) |
 |-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+
 </div>
 
 
