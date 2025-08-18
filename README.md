@@ -45,3 +45,4 @@ I'am a **Python backend-developer** with **2.5+** years of experience.
 
 # 📫 **My contacts:**
 📧 [Email](chas.prog@gmail.com)
+💬 [LinkedIn](linkedin.com/in/chilikov-aleksandr-74040437b)
